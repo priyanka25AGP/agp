@@ -310,6 +310,9 @@ margin: 0 auto;
 }
 /* mobile view */
 @media (min-width: 320px) and (max-width:767px) {
+  .header-icon{
+    margin: 0px 2px;
+  }
   .info-cont{
     padding: 35% 0%;
     width: 100%;
