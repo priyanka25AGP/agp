@@ -186,7 +186,7 @@ a{
   width:300px;
   margin: 0 auto;
   border: 2px solid;
-  border-radius: 30px;
+  border-radius:20px;
 }
 .about-image-title,.skill-image-title{
   margin: 15px 0px;
